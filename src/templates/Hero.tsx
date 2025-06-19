@@ -22,6 +22,8 @@ const Hero = () => (
         </li>
         <li>
           <Link href="/support">Support</Link>
+        </li>
+        <li>
           <Link href="/privacy">Privacy</Link>
         </li>
       </NavbarTwoColumns>
