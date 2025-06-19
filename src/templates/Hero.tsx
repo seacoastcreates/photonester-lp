@@ -21,7 +21,8 @@ const Hero = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://36dunes.com/contact">Contact</Link>
+          <Link href="/support">Support</Link>
+          <Link href="/privacy">Privacy</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
