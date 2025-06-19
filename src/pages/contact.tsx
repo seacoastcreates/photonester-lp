@@ -1,5 +1,5 @@
 import { Base } from '../templates/Base';
 
-const Contact = () => <Base />;
+const ContactPage = () => <Base />;
 
-export default Contact;
+export default ContactPage;
