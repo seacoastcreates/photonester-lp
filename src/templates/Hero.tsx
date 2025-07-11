@@ -39,7 +39,11 @@ const Hero = () => (
         }
         description="PhotoNester is your smart photo assistant — using cutting-edge AI."
         button={
-          <Link href="/">
+          <Link
+            href="https://apps.apple.com/app/id6747405112"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button xl>Download in the App Store</Button>
           </Link>
         }
